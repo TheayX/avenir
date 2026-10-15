@@ -1,0 +1,4 @@
+interface:
+  display_name: "魏来"
+  short_description: "小说分镜、人物群像场景资产及一体化制作"
+  default_prompt: "请用魏来处理我附上的小说；我会指定范围，以及做分镜、提资产或一步到位。"
